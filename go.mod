@@ -1,6 +1,6 @@
 module github.com/celestiaorg/op-alt-da
 
-go 1.25.8
+go 1.25.11
 
 require (
 	github.com/BurntSushi/toml v1.5.0
